@@ -1,0 +1,26 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+#Get {
+  border: 5 px solid black;
+  padding: 10px 20px;
+  border-radius: 5px;
+  background-color: white;
+}
+#loading {
+  width: 150px;
+  height: 150px;
+  margin: 0 auto;
+  text-align: center;
+}
+body {
+  text-align: center;
+}
+.card {
+  border: 1px solid black;
+  border-radius: 10px;
+  padding: 30px;
+  width: 400px;
+  margin: 5px auto;
+}
